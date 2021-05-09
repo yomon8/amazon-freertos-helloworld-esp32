@@ -14,6 +14,7 @@ Get repository and submodules.
 
 ```cmd
 git clone --recursive https://github.com/yomon8/amazon-freertos-helloworld-esp32.git
+cd amazon-freertos-helloworld-esp32
 ```
 
 or
