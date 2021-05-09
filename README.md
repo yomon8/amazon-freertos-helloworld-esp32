@@ -13,14 +13,14 @@ Minimum settings to build your own application on Amazon FreeRTOS.
 Get repository and submodules.
 
 ```cmd
-git clone --recursive https://github.com/yomon8/amazon-freertos-hello-world-win-esp32.git
+git clone --recursive https://github.com/yomon8/amazon-freertos-helloworld-esp32.git
 ```
 
 or
 
 ```cmd
-git clone https://github.com/yomon8/amazon-freertos-hello-world-win-esp32.git
-cd amazon-freertos-hello-world-win-esp32
+git clone https://github.com/yomon8/amazon-freertos-helloworld-esp32.git
+cd amazon-freertos-helloworld-esp32
 git submodule update --init --recursive
 ```
 
